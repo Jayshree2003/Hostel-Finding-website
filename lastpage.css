@@ -1,0 +1,11 @@
+body{
+    background-image: url('images/new2.png');
+    background-position: center;
+    background-size: cover;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    text-align: center;
+}

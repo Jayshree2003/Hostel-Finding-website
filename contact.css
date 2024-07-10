@@ -1,0 +1,26 @@
+body{
+    text-align: center; 
+    background-size: 100%, 100%;
+    font-family: 'Noto Serif', serif;
+    background-image: url('images/best.png');
+}
+
+h1{
+    color: #FFF2CC;
+}
+
+h2{
+    color: #FFF4E0;
+}
+.contact-map{
+    width: 100%;
+    height: auto;
+    flex: 50;    
+}
+.contact-map iframe{
+    width: 650px;
+    height:650px;
+}
+.last{
+    color: rgb(255, 255, 255);
+}
